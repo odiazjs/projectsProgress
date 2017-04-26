@@ -1593,5 +1593,558 @@ export const projects = [
          "FIELD9": "Done"
       }
    ]
+},
+{
+    "name": "IE Plugin",
+    "tasks":  [
+      {
+         "FIELD2": "JCI-8823",
+         "FIELD3": "65838",
+         "FIELD4": "[SPIKE] IIS Express Installation and Configuration",
+         "FIELD5": "salvarado",
+         "FIELD6": "24/Apr/17 1:08 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-8820",
+         "FIELD3": "65832",
+         "FIELD4": "[SPIKE] IE installers (ClickOnce)",
+         "FIELD5": "salvarado",
+         "FIELD6": "21/Apr/17 2:03 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8817",
+         "FIELD3": "65829",
+         "FIELD4": "[SPIKE] IE installers (Advanced Installer)",
+         "FIELD5": "salvarado",
+         "FIELD6": "26/Apr/17 9:54 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-8724",
+         "FIELD3": "65172",
+         "FIELD4": "Create Settings page",
+         "FIELD5": "",
+         "FIELD6": "19/Apr/17 7:31 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8723",
+         "FIELD3": "65171",
+         "FIELD4": "Create IE installer",
+         "FIELD5": "salvarado",
+         "FIELD6": "24/Apr/17 1:12 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8657",
+         "FIELD3": "64811",
+         "FIELD4": "Click to call library",
+         "FIELD5": "isoliman",
+         "FIELD6": "24/Apr/17 1:26 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8656",
+         "FIELD3": "64810",
+         "FIELD4": "Users API library",
+         "FIELD5": "isoliman",
+         "FIELD6": "24/Apr/17 1:26 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8655",
+         "FIELD3": "64809",
+         "FIELD4": "Storage library to be used by integrators",
+         "FIELD5": "isoliman",
+         "FIELD6": "25/Apr/17 1:49 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8654",
+         "FIELD3": "64808",
+         "FIELD4": "Cross apps storage SDK",
+         "FIELD5": "isoliman",
+         "FIELD6": "24/Apr/17 9:24 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-8146",
+         "FIELD3": "61609",
+         "FIELD4": "IE Plugin (Parsing when hover)",
+         "FIELD5": "salvarado",
+         "FIELD6": "11/Apr/17 7:43 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8053",
+         "FIELD3": "60140",
+         "FIELD4": "IExplorer Plugin",
+         "FIELD5": "salvarado",
+         "FIELD6": "10/Mar/17 9:14 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-7962",
+         "FIELD3": "59798",
+         "FIELD4": "Phone Parsing Improvements (Anchor Tag & Phone Detection)",
+         "FIELD5": "salvarado",
+         "FIELD6": "10/Apr/17 2:43 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-7950",
+         "FIELD3": "59786",
+         "FIELD4": "Detect Phone Numbers (international numbers not only US)",
+         "FIELD5": "salvarado",
+         "FIELD6": "13/Mar/17 11:00 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-7938",
+         "FIELD3": "59774",
+         "FIELD4": "Reload Page + Ajax DOM modification",
+         "FIELD5": "salvarado",
+         "FIELD6": "11/Apr/17 6:45 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-7926",
+         "FIELD3": "59761",
+         "FIELD4": "Improve Click to Call Dialer Performance",
+         "FIELD5": "salvarado",
+         "FIELD6": "20/Mar/17 11:20 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-7821",
+         "FIELD3": "58923",
+         "FIELD4": "Merge and get a working demo for IE ",
+         "FIELD5": "salvarado",
+         "FIELD6": "19/Apr/17 7:46 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-7807",
+         "FIELD3": "58908",
+         "FIELD4": "Automate BHO testing",
+         "FIELD5": "lhidalgo",
+         "FIELD6": "10/Apr/17 5:08 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "In Progress"
+      },
+      {
+         "FIELD2": "JCI-7713",
+         "FIELD3": "58537",
+         "FIELD4": "Reach out UX team to define UI for MS Plugins",
+         "FIELD5": "sbunch",
+         "FIELD6": "22/Mar/17 12:08 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6718",
+         "FIELD3": "52479",
+         "FIELD4": "Define unit test baseline",
+         "FIELD5": "lhidalgo",
+         "FIELD6": "21/Feb/17 9:15 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6716",
+         "FIELD3": "52477",
+         "FIELD4": "[Spike] Verify if specflow tests will run properly with the .net core",
+         "FIELD5": "lhidalgo",
+         "FIELD6": "12/Jan/17 4:21 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6713",
+         "FIELD3": "52474",
+         "FIELD4": "Setup QA environment for create and run tests",
+         "FIELD5": "lhidalgo",
+         "FIELD6": "09/Jan/17 9:09 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6533",
+         "FIELD3": "51039",
+         "FIELD4": "Update .NET Demo App (JIF - Click to Call)",
+         "FIELD5": "salvarado",
+         "FIELD6": "29/Dec/16 10:47 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6525",
+         "FIELD3": "51026",
+         "FIELD4": "Architecture Review (.Net SDK's)",
+         "FIELD5": "salvarado",
+         "FIELD6": "26/Dec/16 10:31 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6121",
+         "FIELD3": "48906",
+         "FIELD4": "Create MSBuild project (for Jenkins)",
+         "FIELD5": "salvarado",
+         "FIELD6": "26/Dec/16 10:31 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6020",
+         "FIELD3": "48705",
+         "FIELD4": "Create Dummy App (for .NET)",
+         "FIELD5": "salvarado",
+         "FIELD6": "12/Dec/16 10:50 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-5998",
+         "FIELD3": "48682",
+         "FIELD4": "Create IE Plugin",
+         "FIELD5": "salvarado",
+         "FIELD6": "23/Jan/17 1:02 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-5976",
+         "FIELD3": "48660",
+         "FIELD4": "Jive's Click to Call Implementation for .NET (SDK - DLL)",
+         "FIELD5": "salvarado",
+         "FIELD6": "10/Jan/17 3:16 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-5949",
+         "FIELD3": "48625",
+         "FIELD4": "Jive's OAUTH Implementation for .NET (SDK - DLL)",
+         "FIELD5": "salvarado",
+         "FIELD6": "12/Dec/16 10:36 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-5948",
+         "FIELD3": "48622",
+         "FIELD4": "New Roadmap for .NET Solutions",
+         "FIELD5": "salvarado",
+         "FIELD6": "22/Nov/16 9:09 AM",
+         "FIELD7": "17/Nov/16 12:00 AM",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-5832",
+         "FIELD3": "48470",
+         "FIELD4": "Jive's  JIF Implementation for .NET (SDK - DLL)",
+         "FIELD5": "salvarado",
+         "FIELD6": "11/Jan/17 9:51 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-4852",
+         "FIELD3": "42927",
+         "FIELD4": "Configure environment",
+         "FIELD5": "salvarado",
+         "FIELD6": "17/Oct/16 10:57 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-4740",
+         "FIELD3": "42681",
+         "FIELD4": "Get new Jenkins windows slave to build .net apps",
+         "FIELD5": "isoliman",
+         "FIELD6": "25/Oct/16 2:54 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-4023",
+         "FIELD3": "40597",
+         "FIELD4": "[Spike] Migrate to new click to call API",
+         "FIELD5": "salvarado",
+         "FIELD6": "15/Nov/16 8:59 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-4021",
+         "FIELD3": "40595",
+         "FIELD4": "Determine needs on IDE",
+         "FIELD5": "isoliman",
+         "FIELD6": "30/Sep/16 9:50 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-4020",
+         "FIELD3": "40594",
+         "FIELD4": "[Spike] Architecture what needs to be redesigned",
+         "FIELD5": "salvarado",
+         "FIELD6": "15/Nov/16 9:44 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-4019",
+         "FIELD3": "40593",
+         "FIELD4": "Review IE/Outlook Solution",
+         "FIELD5": "salvarado",
+         "FIELD6": "31/Oct/16 11:15 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-128",
+         "FIELD3": "15103",
+         "FIELD4": "MS: Generic TAPI interface",
+         "FIELD5": "",
+         "FIELD6": "10/Apr/17 5:08 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-90",
+         "FIELD3": "15065",
+         "FIELD4": "outlook: parse BR and MX phone numbers",
+         "FIELD5": "",
+         "FIELD6": "10/Apr/17 5:06 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-75",
+         "FIELD3": "15050",
+         "FIELD4": "IE ClickToCall: No user feedback for failed call attempts",
+         "FIELD5": "",
+         "FIELD6": "10/Apr/17 5:07 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-74",
+         "FIELD3": "15049",
+         "FIELD4": "IE ClickToCall: fails to identify numbers in gmail",
+         "FIELD5": "",
+         "FIELD6": "10/Apr/17 5:07 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      }
+   ]
+},
+{
+    "name": "Favorites MVP",
+    "tasks":  [
+      {
+         "FIELD2": "JCI-8711",
+         "FIELD3": "65042",
+         "FIELD4": "Review Favorites service proposal",
+         "FIELD5": "evelasquez",
+         "FIELD6": "19/Apr/17 12:03 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-8694",
+         "FIELD3": "64974",
+         "FIELD4": "[Spike] What do we do in Favorites",
+         "FIELD5": "evelasquez",
+         "FIELD6": "26/Apr/17 1:40 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      }
+   ]
+},
+{
+    "name": "Google Contacts v2",
+    "tasks":  [
+      {
+         "FIELD2": "JCI-6772",
+         "FIELD3": "52534",
+         "FIELD4": "Create diagram for new Contacts API Architecture",
+         "FIELD5": "evelasquez",
+         "FIELD6": "29/Dec/16 10:58 AM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "Done"
+      },
+      {
+         "FIELD2": "JCI-6748",
+         "FIELD3": "52509",
+         "FIELD4": "Implement the Contacts V2 changes in Google Contacts API",
+         "FIELD5": "evelasquez",
+         "FIELD6": "01/Mar/17 3:08 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-3195",
+         "FIELD3": "34045",
+         "FIELD4": "UX: how do user CRUD contact with multiple sources",
+         "FIELD5": "",
+         "FIELD6": "14/Feb/17 12:57 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-2545",
+         "FIELD3": "29193",
+         "FIELD4": "UX: what if there are two users who are the same (one in Jive the other in Google) contact linking?",
+         "FIELD5": "",
+         "FIELD6": "14/Feb/17 12:57 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-2544",
+         "FIELD3": "29191",
+         "FIELD4": "UX: what if a user adds a new contact? (add to Jive and Google)",
+         "FIELD5": "",
+         "FIELD6": "14/Feb/17 12:57 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-2543",
+         "FIELD3": "29190",
+         "FIELD4": "UX: do we want to allow people to update google contacts?",
+         "FIELD5": "",
+         "FIELD6": "14/Feb/17 12:56 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      }
+   ]
+},
+{
+    "name": "Zoho Desk",
+    "tasks": [{
+      "FIELD2": "JCI-8683",
+      "FIELD3": "64913",
+      "FIELD4": "[Placeholder] Integrate with Zoho Desk",
+      "FIELD5": "fmendez",
+      "FIELD6": "19/Apr/17 10:48 AM",
+      "FIELD7": "",
+      "FIELD8": "",
+      "FIELD9": "To Do"
+   }]
+},
+{
+    "name": "Jasmine Security",
+    "tasks": [
+      {
+         "FIELD2": "JCI-8588",
+         "FIELD3": "64354",
+         "FIELD4": "Validate user + organization access in Line subscription",
+         "FIELD5": "fmendez",
+         "FIELD6": "26/Apr/17 2:01 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "In Progress"
+      },
+      {
+         "FIELD2": "JCI-8121",
+         "FIELD3": "61520",
+         "FIELD4": "[Placeholder] Jasmine line subscription is missing security validation for authorization",
+         "FIELD5": "",
+         "FIELD6": "14/Apr/17 1:13 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-360",
+         "FIELD3": "17894",
+         "FIELD4": "Permissions: to see basic presence",
+         "FIELD5": "",
+         "FIELD6": "26/Apr/17 2:11 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      },
+      {
+         "FIELD2": "JCI-359",
+         "FIELD3": "17893",
+         "FIELD4": "Permissions: see call details or not",
+         "FIELD5": "",
+         "FIELD6": "24/Apr/17 5:40 PM",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "To Do"
+      }
+   ]
 }
 ]
