@@ -20,7 +20,7 @@ export class ProgressBarComponent implements AfterViewInit {
     setProgress () : void {
 
         const total                 = this.project.tasks.length
-        const completed             = this.project.tasks.filter( ( task: Task ) => { return task.isCompleted } ).length
+        const completed             = this.project.tasks.filter( ( task: Task ) => { return task.FIELD9 === 'Done' } ).length
         const percentageCompleted   = Math.floor(completed * 100 / total)
         this.project.completed      = percentageCompleted
 
@@ -49,6 +49,7 @@ export interface Project {
 }
 
 export interface Task {
-    id: string, 
-    isCompleted: boolean
+    FIELD2: string, //id
+    FIELD4: string, //name
+    FIELD9: string //status
 }
