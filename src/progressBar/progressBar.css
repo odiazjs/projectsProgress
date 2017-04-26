@@ -1,0 +1,14 @@
+.center {
+    text-align: center;
+}
+
+.progressBar {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.completed {
+  width: 1%;
+  height: 30px;
+  background-color: #4CAF50;
+}
